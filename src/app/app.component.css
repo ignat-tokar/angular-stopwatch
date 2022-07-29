@@ -1,0 +1,13 @@
+p {
+  font-size: 20pt;
+  padding: 10pt;
+}
+button {
+  font-size: 20pt;
+  background-color: rgb(46, 46, 255);
+  color: white;
+  padding: 10pt;
+  margin: 10pt;
+  border: none;
+  cursor: pointer;
+}
